@@ -6,13 +6,15 @@
 `
 chmod +x *.sh
 `
-##一、安装zsh
+
+
+###一、安装zsh
 
 `
 ./toZsh.sh
 `
 
-##二、安装oh my zsh
+###二、安装oh my zsh
 
 `
 ./configZsh.sh
