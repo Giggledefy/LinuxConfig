@@ -23,4 +23,6 @@ chmod +x *.sh
 
 
 
+#Linux中pip的安装方法
+python get-pip.py
 
